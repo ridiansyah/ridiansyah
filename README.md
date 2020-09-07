@@ -14,8 +14,7 @@ I'm Software Engineer, have worked on several projects including web application
 👨‍💻 Now focusing on ReactJS <br>
 📫 How to reach me **wahyuridiansyah@gmail.com** <br>
 ⚽️ Manchester United Fans <br>
-🇮🇩 Based in Malang, Indonesia <br>
-My Workspace <img src="https://img.shields.io/badge/apple-macbook%20pro%202015-%23999999.svg?&style=for-the-badge&logo=apple&logoColor=white"/><br>
+🇮🇩 Based in Malang, Indonesia
 </p>
   </td>
   </table>
