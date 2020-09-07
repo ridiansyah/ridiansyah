@@ -22,8 +22,7 @@ My Workspace ![](https://img.shields.io/badge/apple-macbook%20pro%202015-%239999
 
 ## 🧑‍🚀 Connect with me
 
-<p align="center">[![Website](https://img.shields.io/website?label=ridiansyah.dev&style=for-the-badge&url=https%3A%2F%2Fridiansyah.dev)](https://ridiansyah.dev)
-</p>
+[![Website](https://img.shields.io/website?label=ridiansyah.dev&style=for-the-badge&url=https%3A%2F%2Fridiansyah.dev)](https://ridiansyah.dev)
 [![Twitter Follow](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)][twitter]
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)][instagram]
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
