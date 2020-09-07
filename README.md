@@ -6,7 +6,7 @@ I'm Software Engineer, have worked on several projects including web application
   <tr>
   <td width="50%">
       
-&nbsp; <br> [![Spotify](https://novatorem-git-master.ridiansyah.vercel.app)](https://open.spotify.com/user/wahyuridiansyah)
+&nbsp; <br> [![Spotify](https://novatorem-git-master.ridiansyah.vercel.app/api/spotify)](https://open.spotify.com/user/wahyuridiansyah)
 
   </td>
   <td width="50%">
