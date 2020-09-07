@@ -12,7 +12,7 @@ I'm Software Engineer, have worked on several projects including web application
   <td width="50%">
 <p align="center">🌱 Learn for to be able to help <br>
 👨‍💻 Now focusing on ReactJS <br>
-📫 How to reach me **wahyuridiansyah@gmail.com** <br>
+📫 Contact me on wahyuridiansyah@gmail.com <br>
 ⚽️ Manchester United Fans <br>
 🇮🇩 Based in Malang, Indonesia
 </p>
