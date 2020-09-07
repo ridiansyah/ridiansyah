@@ -10,11 +10,10 @@ I'm Software Engineer, have worked on several projects including web application
 
   </td>
   <td width="50%">
-<p align="center">🌱 Learn for to be able to help <br>
-👨‍💻 Now focusing on ReactJS <br>
-📫 Contact me on wahyuridiansyah@gmail.com <br>
-⚽️ Manchester United Fans <br>
-🇮🇩 Based in Malang, Indonesia
+<p align="center">🌱  Just want to be able to help. <br>
+👨‍💻  Now focusing on React <br>
+⚽️  Manchester United Fans <br>
+🇮🇩  Based in Malang, Indonesia
 </p>
   </td>
   </table>
