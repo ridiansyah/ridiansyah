@@ -11,9 +11,9 @@ I'm Software Engineer, have worked on several projects including web application
   </td>
   <td width="50%">
 <p align="center">🌱  Just want to be able to help. <br>
-👨‍💻  Now focusing on React <br>
+👨‍💻  Now focusing on ReactJS <br>
 ⚽️  Manchester United Fans <br>
-🇮🇩  Based in Malang, Indonesia
+🇮🇩  Based in Gresik, Indonesia
 </p>
   </td>
   </table>
