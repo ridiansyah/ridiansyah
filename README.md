@@ -37,7 +37,7 @@ I'm Software Engineer, have worked on several projects including web application
 
 ## 🚀 GitHub Stats
 
-  ![Ridiansyah's GitHub stats](https://github-readme-stats.vercel.app/api?username=ridiansyah&show_icons=true&theme=radical)
+  ![Ridiansyah's GitHub stats](https://github-readme-stats.vercel.app/api?username=ridiansyah&show_icons=true&theme=dark)
 
 [website]: https://ridiansyah.dev
 [twitter]: https://twitter.com/w_ridiansyah
