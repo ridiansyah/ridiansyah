@@ -1,4 +1,4 @@
-# Hello, I'm Wahyu! <img src="https://raw.githubusercontent.com/ridiansyah/ridiansyah/master/wave.gif" width="8px">
+# Hello, I'm Wahyu!
 
 I'm Software Engineer, have worked on several projects including web applications, graphic design, and UI / UX applications. I enjoy turning complex problems into simple, beautiful, and intuitive designs.
 
