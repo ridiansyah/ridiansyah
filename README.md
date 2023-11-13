@@ -20,7 +20,7 @@ I'm Software Engineer, have worked on several projects including web application
 
 ## 🧑‍🚀 Connect with me
 
-[![Website](https://img.shields.io/website?label=ridiansyah.dev&style=for-the-badge&url=https%3A%2F%2Fridiansyah.dev)](https://ridiansyah.dev)
+[![Website](https://img.shields.io/website?label=ridiansyah.com&style=for-the-badge&url=https%3A%2F%2Fridiansyah.com)](https://ridiansyah.com)
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)][instagram]
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
 [![Steam](https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white)][steam]
@@ -43,7 +43,7 @@ I'm Software Engineer, have worked on several projects including web application
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridiansyah&layout=compact&theme=merko&hide_border=true&count_private=true&include_all_commits=true" />
   </a>
 
-[website]: https://ridiansyah.dev
+[website]: https://ridiansyah.com
 [twitter]: https://twitter.com/w_ridiansyah
 [instagram]: https://instagram.com/w.ridiansyah
 [linkedin]: https://linkedin.com/in/wahyuridiansyah
