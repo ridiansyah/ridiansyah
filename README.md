@@ -12,9 +12,9 @@
 <div align="center">
 
 [![Website](https://img.shields.io/website?label=ridiansyah.com&style=for-the-badge&url=https%3A%2F%2Fridiansyah.com)](https://ridiansyah.com)
-[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)][instagram]
-[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
-[![Steam](https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white)][steam]
+[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/w.ridiansyah)
+[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wahyuridiansyah)
+[![Steam](https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/ridiansyah)
 
 </div>
 
