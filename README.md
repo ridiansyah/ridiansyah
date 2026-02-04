@@ -38,9 +38,10 @@
 <br/>
 
 <!-- About Me Section -->
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="30" align="left"/>
-
-## &nbsp;About Me
+<h2>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="28" style="vertical-align: middle;" />
+  About Me
+</h2>
 
 ```typescript
 const wahyu: Developer = {
@@ -61,9 +62,10 @@ const wahyu: Developer = {
 <br/>
 
 <!-- Tech Stack Section with Enhanced Design -->
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="30" align="left"/>
-
-## &nbsp;Tech Arsenal
+<h2>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="28" style="vertical-align: middle;" />
+  Tech Arsenal
+</h2>
 
 <div align="center">
   
@@ -153,9 +155,10 @@ const wahyu: Developer = {
 <br/>
 
 <!-- GitHub Stats Section -->
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="30" align="left"/>
-
-## &nbsp;GitHub Analytics
+<h2>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="28" style="vertical-align: middle;" />
+  GitHub Analytics
+</h2>
 
 <div align="center">
   
@@ -191,9 +194,10 @@ const wahyu: Developer = {
 <br/>
 
 <!-- Spotify Section -->
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Headphone.png" alt="Music" width="30" align="left"/>
-
-## &nbsp;Vibe Check 🎶
+<h2>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Headphone.png" alt="Music" width="28" style="vertical-align: middle;" />
+  Vibe Check 🎶
+</h2>
 
 <div align="center">
   
