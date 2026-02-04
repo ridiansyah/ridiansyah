@@ -1,183 +1,172 @@
 <!-- Gradient Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Wahyu%20Ridiansyah&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20Frontend%20Specialist%20%7C%20UI/UX%20Enthusiast&descSize=18&descAlignY=52"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=200&section=header&text=Wahyu%20Ridiansyah&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=✨%20Crafting%20Digital%20Experiences%20with%20Passion%20✨&descSize=16&descAlignY=55"/>
 
+<!-- Intro Section -->
 <div align="center">
   
   <!-- Animated Wave -->
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Hello" width="60" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Hello" width="50" />
   
   <!-- Dynamic Typing -->
   <br/>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+Digital+Experiences+%F0%9F%9A%80;Crafting+Pixel-Perfect+Interfaces+%E2%9C%A8;Turning+Coffee+into+Code+%E2%98%95" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=100&lines=Software+Engineer+%F0%9F%92%BB;Frontend+Specialist+%E2%9A%A1;UI%2FUX+Enthusiast+%F0%9F%8E%A8" alt="Typing SVG" />
   </a>
 
   <br/>
   
-  <!-- Location & Status -->
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Asia-Australia.png" alt="Globe" width="25" />
-  <b>Sleman, Indonesia</b>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Green%20Heart.png" alt="Status" width="20" />
-  <b>Open to collaborate</b>
+  <!-- Location & Status Badges -->
+  <img src="https://img.shields.io/badge/📍_Sleman,_Indonesia-000?style=flat-square" alt="Location" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/💼_Open_to_Collaborate-667eea?style=flat-square" alt="Status" />
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=ridiansyah&style=flat-square&color=764ba2&label=Profile+Views" alt="Profile Views" />
 
 </div>
 
-<br/>
-
-<!-- Social Links with Hover Animation -->
+<!-- Social Links -->
 <div align="center">
   
-  [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-ridiansyah.com-000000?style=for-the-badge&logoColor=white)](https://ridiansyah.com)
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/wahyuridiansyah)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/w.ridiansyah)
-  [![Steam](https://img.shields.io/badge/Steam-171A21?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/ridiansyah)
+  <a href="https://ridiansyah.com">
+    <img src="https://img.shields.io/badge/Portfolio-667eea?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/wahyuridiansyah">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/w.ridiansyah">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  &nbsp;
+  <a href="https://steamcommunity.com/id/ridiansyah">
+    <img src="https://img.shields.io/badge/Steam-171A21?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" />
+  </a>
+  &nbsp;
+  <a href="mailto:wahyuridiansyah@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
   
 </div>
 
-<br/>
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- About Me Section -->
 <h2>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="28" style="vertical-align: middle;" />
-  About Me
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="28" />
+  &nbsp;About Me
 </h2>
 
+<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Unicorn.png" width="120" alt="Unicorn" />
+
 ```typescript
-const wahyu: Developer = {
+const wahyu = {
   location: "Sleman, Indonesia 🇮🇩",
   roles: ["Software Engineer", "Frontend Developer", "UI/UX Enthusiast"],
 
-  currentlyLearning: ["Advanced System Design", "Cloud Architecture"],
-  askMeAbout: ["Web Dev", "UI/UX", "Tech", "Gaming"],
+  code: ["TypeScript", "JavaScript", "PHP"],
+  expertise: ["React", "Vue", "Next.js", "Nuxt.js"],
 
-  dailyRoutine: () => {
-    return ["☕ Coffee", "💻 Code", "🎮 Game", "😴 Sleep", "🔁 Repeat"];
-  },
+  currentFocus: "Building scalable web applications",
+  funFact: "I debug with console.log and I'm not ashamed 🤷‍♂️",
 
-  funFact: "I turn ☕ caffeine into </code> at an alarming rate",
+  lifePhilosophy: () => "What is unseen must be better than what is seen.",
 };
 ```
 
-<br/>
+<br clear="right"/>
 
-<!-- Tech Stack Section with Enhanced Design -->
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- Tech Stack Section -->
 <h2>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="28" style="vertical-align: middle;" />
-  Tech Arsenal
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="28" />
+  &nbsp;Tech Arsenal
 </h2>
 
 <div align="center">
-  
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="48" height="48" />
-        <br><b>TypeScript</b>
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="48" height="48" />
-        <br><b>JavaScript</b>
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="48" height="48" />
-        <br><b>React</b>
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
-        <br><b>Vue.js</b>
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
-        <br><b>Next.js</b>
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nuxtjs" width="48" height="48" alt="Nuxt.js" />
-        <br><b>Nuxt.js</b>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
-        <br><b>Tailwind</b>
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="Sass" width="48" height="48" />
-        <br><b>Sass</b>
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-        <br><b>Node.js</b>
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="48" height="48" />
-        <br><b>MySQL</b>
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
-        <br><b>PHP</b>
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="Dart" />
-        <br><b>Dart</b>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
-        <br><b>Figma</b>
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="48" height="48" />
-        <br><b>Docker</b>
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="48" height="48" />
-        <br><b>GitHub</b>
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VSCode" />
-        <br><b>VS Code</b>
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-        <br><b>Postman</b>
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-        <br><b>Git</b>
-      </td>
-    </tr>
-  </table>
-  
+
+<!-- Languages -->
+<h4>👨‍💻 Languages</h4>
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+<!-- Frameworks -->
+<h4>🚀 Frameworks & Libraries</h4>
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+</p>
+
+<!-- Tools -->
+<h4>🛠️ Tools & Platforms</h4>
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
+
+<!-- Database -->
+<h4>🗄️ Databases</h4>
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+</p>
+
 </div>
 
-<br/>
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- GitHub Stats Section -->
 <h2>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="28" style="vertical-align: middle;" />
-  GitHub Analytics
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="28" />
+  &nbsp;GitHub Analytics
 </h2>
 
 <div align="center">
   
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=ridiansyah&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" />
-    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ridiansyah&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=ridiansyah&theme=tokyonight&hide_border=true&background=0D1117" />
-    <img width="49%" src="https://streak-stats.demolab.com?user=ridiansyah&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </picture>
+  <!-- Stats Cards -->
+  <a href="https://github.com/ridiansyah">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=ridiansyah&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" />
+      <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ridiansyah&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    </picture>
+  </a>
+  <a href="https://github.com/ridiansyah">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=ridiansyah&theme=tokyonight&hide_border=true&background=0D1117" />
+      <img width="49%" src="https://streak-stats.demolab.com?user=ridiansyah&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    </picture>
+  </a>
   
 </div>
 
+<br/>
+
 <div align="center">
   
+  <!-- Top Languages -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ridiansyah&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" />
-    <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ridiansyah&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ridiansyah&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=6" />
+    <img width="35%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ridiansyah&layout=donut-vertical&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
   </picture>
   
 </div>
@@ -187,29 +176,31 @@ const wahyu: Developer = {
 <!-- Activity Graph -->
 <div align="center">
   
-  [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ridiansyah&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF&area=true&hide_border=true&custom_title=📈%20Contribution%20Activity)](https://github.com/ridiansyah)
+  <a href="https://github.com/ridiansyah">
+    <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ridiansyah&bg_color=0D1117&color=667eea&line=764ba2&point=f093fb&area=true&hide_border=true&custom_title=📈%20Contribution%20Graph" alt="Activity Graph" />
+  </a>
   
 </div>
 
-<br/>
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- Spotify Section -->
 <h2>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Headphone.png" alt="Music" width="28" style="vertical-align: middle;" />
-  Vibe Check 🎶
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Headphone.png" alt="Music" width="28" />
+  &nbsp;Now Playing
 </h2>
 
 <div align="center">
   
-  [![Spotify](https://novatorem-git-master.ridiansyah.vercel.app/api/spotify)](https://open.spotify.com/user/wahyuridiansyah)
-  
-  <br/>
-  
-  <i>"Code flows better with the right playlist."</i>
+  <a href="https://open.spotify.com/user/wahyuridiansyah">
+    <img src="https://novatorem-git-master.ridiansyah.vercel.app/api/spotify" alt="Spotify Now Playing" width="400" />
+  </a>
   
 </div>
 
-<br/>
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- Snake Animation -->
 <div align="center">
@@ -222,5 +213,26 @@ const wahyu: Developer = {
   
 </div>
 
+<br/>
+
+<!-- Connect Section -->
+<div align="center">
+  
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="60" alt="Handshake" />
+  
+  <h3>Let's Build Something Amazing Together!</h3>
+  
+  <p>
+    <i>Feel free to reach out for collaborations, opportunities, or just a friendly chat!</i>
+  </p>
+  
+  <a href="mailto:wahyuridiansyah@gmail.com">
+    <img src="https://img.shields.io/badge/📧_wahyuridiansyah@gmail.com-667eea?style=for-the-badge" alt="Email" />
+  </a>
+  
+</div>
+
+<br/>
+
 <!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=120&section=footer"/>
